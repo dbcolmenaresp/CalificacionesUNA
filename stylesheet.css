@@ -1,0 +1,20 @@
+body{
+  background-color:#fff6f1;
+  font-family:"Helvetica", Arial;
+}
+
+h1{
+  color:#e44e2d;
+}
+
+a{
+  color: #e44e2d;
+  font-weight: bold;
+}
+
+nav ul li{
+  color: #1d1d1d;
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 20px;
+}
