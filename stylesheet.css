@@ -1,19 +1,19 @@
-body{
+﻿body{
   background-color:#fff6f1;
   font-family:"Helvetica", Arial;
 }
 
 h1{
-  color:#e44e2d;
+  color:#1d2ad5;
 }
 
 a{
-  color: #e44e2d;
+  color: #1d2ad5;
   font-weight: bold;
 }
 
 nav ul li{
-  color: #1d1d1d;
+  color: #1d2ad5;
   cursor: pointer;
   display: inline-block;
   margin-right: 20px;
