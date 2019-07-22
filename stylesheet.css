@@ -39,6 +39,10 @@ footer {
   overflow: auto;
 }
 
+.social {
+  text-align: center;
+}
+
 .social li {
   display:inline;
 }
