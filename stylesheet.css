@@ -1,18 +1,22 @@
-﻿body{
+﻿body {
   background-color:#ecf0f1;
   font-family:"Helvetica", Arial;
 }
 
-h1{
+h1 {
   color:#1d2ad5;
 }
 
-a{
+a {
   color: #1d2ad5;
   font-weight: bold;
 }
 
-nav ul li{
+a:hover {
+  color: #c3d7df;
+  }
+
+nav ul li {
   color: #1d2ad5;
   cursor: pointer;
   display: inline-block;
