@@ -21,6 +21,11 @@ ul {
   list-style: none;
 }
 
+nav {
+  float: right;
+  padding: 25px 20px 0 0;
+}
+
 nav ul li {
   color: #1d2ad5;
   cursor: pointer;
