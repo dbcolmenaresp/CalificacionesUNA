@@ -39,6 +39,10 @@ footer {
   overflow: auto;
 }
 
+footer a:hover {
+ color: #f5f5f5; 
+}
+
 .social {
   text-align: center;
 }
