@@ -41,6 +41,11 @@ footer {
 
 .social li {
   display:inline;
-  color: #f5f5f5;
-  padding: 2%;
+}
+
+.social i {
+  font-size: 420%;
+  margin: 1%;
+  padding:5%;
+  color: #c3d7df;
 }
