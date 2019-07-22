@@ -16,6 +16,10 @@ a:hover {
   color: #c3d7df;
   }
 
+ul {
+  list-style: none;
+}
+
 nav ul li {
   color: #1d2ad5;
   cursor: pointer;
