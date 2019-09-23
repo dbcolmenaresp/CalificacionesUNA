@@ -34,8 +34,9 @@ nav ul li {
 }
 
 li.conmatricula{
+  color: #1d2ad5;
   text-transform: uppercase;
-  font-weight: bold:
+  font-weight: bold;
 }
 
 table {
