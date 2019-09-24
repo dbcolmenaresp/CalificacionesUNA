@@ -3,6 +3,18 @@
   font-family:"Helvetica", Arial;
 }
 
+#principal{
+  display: block;
+  width: 500;
+  margin: 50 auto;
+  paddiong: 15px;
+  text-align: center;
+  border: 1px solid #999999;
+  background: #DDDDDD;
+  border-radius: 20px;
+  box-shadow: rgb(150,150,150) 5px 5px 10px;
+}
+
 h1 {
   color:#1d2ad5;
 }
